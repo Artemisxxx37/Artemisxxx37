@@ -1,8 +1,7 @@
 
 # Skills Matrix
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/svg/skill_matrix.svg">
+  <img src="https://raw.githubusercontent.com/Artemisxxx37/Artemisxxx37/main/svg/skill_matrix.svg">
 </p>
 
 ## About Me
@@ -22,11 +21,5 @@ I'm a [Student] specializing in [Pentesting and Coding].
 ## Contact
 Feel free to reach out via  [email](artemis37hacker1@gmail.com) or connect with me on [Your Social Media].
 
-<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="100" cy="100" r="80" stroke="black" stroke-width="10" fill="none"/>
-  <circle cx="100" cy="100" r="60" stroke="blue" stroke-width="10" fill="none">
-    <animate attributeName="stroke-dasharray" values="0,200; 200,0" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="100" y="115" font-size="20" text-anchor="middle" fill="black">Python</text>
-</svg>
+
 
