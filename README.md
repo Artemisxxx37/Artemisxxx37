@@ -5,7 +5,7 @@
 </p>
 
 ## About Me
-I'm a [Student] specializing in [Pentesting and Coding].
+I'm a [Student] specializing in [Pentesting and Coding].I'm used to be called artemis37 or artemis6X depending of what platform you're coming from but it free to just call me [Jeec]
 
 ## Projects
 - **Project 1**: Description and link
