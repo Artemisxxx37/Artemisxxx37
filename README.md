@@ -6,7 +6,7 @@
 I'm a [Artemis37] , passionnate one ! ; it's free to call me [Jeece]. I enjoy [coding, cybersecurity and at least animes and sport].
 
 ## Skills
-![Skill Badges](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1934526" style='border:none;'></iframe>)
+![Skill Badges](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1934526)
 
 ## Projects
 - **Project 1**: Description and link
