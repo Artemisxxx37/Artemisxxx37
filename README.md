@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/3118deee-5e6c-4cb7-8e6a-9690b03eaebf)
+![header](https://github.com/user-attachments/assets/3118deee-5e6c-4cb7-8e6a-9690b03eaebf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
