@@ -1,26 +1,23 @@
-- 👋 Hi, I’m @Artemis37
-- 👀 I’m interested in cybersecurity  : :  :  HacktheBox - CTFs 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate  with anyone - make friends and land to work or carrier 
-- 📫 How to reach me ...  mail me at    artemis37hacker1@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- looks crazy , i'm looking for fun coding and cyber
+# [Your Name]
 
-- programming in different languages like
-- --> python
-- --> c
-- --> c++
- --> ruby
-  --> javascript - css - html
-  --> java
-  --> assembler
-- Hobbies
--   animes
--   gaming : currently on call of duty  mobile  - switch player
--   football  
-  
-<!---
-Artemisxxx37/Artemisxxx37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Banner Image](https://app.hackthebox.com/profile/1442922)
+
+## About Me
+I'm a [Artemis37] , passionnate one ! ; it's free to call me [Jeece]. I enjoy [coding, cybersecurity and at least animes and sport].
+
+## Skills
+![Skill Badges](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1934526" style='border:none;'></iframe>)
+
+## Projects
+- **Project 1**: Description and link
+- **Project 2**: Description and link
+
+## Contributions
+![GitHub Contributions](URL_OF_YOUR_CONTRIBUTIONS_IMAGE)
+
+## Connect with Me
+- [LinkedIn](URL_OF_YOUR_LINKEDIN)
+- [Portfolio](URL_OF_YOUR_PORTFOLIO)
+
+## Contact
+Feel free to reach out to me at [Your Email] or connect with me on [Your Social Media].
