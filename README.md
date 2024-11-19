@@ -1,7 +1,7 @@
 
 # Skills Matrix
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Artemisxxx37/Artemisxxx37/main/svg/skill_matrix.svg">
+  <img src="skill_matrix.svg">
 </p>
 
 ## About Me
