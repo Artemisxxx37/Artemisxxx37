@@ -1,5 +1,6 @@
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1934526)
 
-# Skills Matrix
+                            # Skills Matrix
 <p align="center">
   <img src="skill_matrix.svg">
 </p>
