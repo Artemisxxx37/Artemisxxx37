@@ -12,7 +12,7 @@ I'm a [Student] specializing in [Pentesting and Coding].I'm used to be called ar
 - **Project 2**: Description and link
 
 ## Contributions
-![GitHub Contributions](URL_OF_YOUR_CONTRIBUTIONS_IMAGE)
+![GitHub Contributions](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1934526)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jacob-tapsoba-4550882a1/
