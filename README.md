@@ -22,6 +22,7 @@ I'm a [Student] specializing in [Pentesting and Coding].I'm used to be called ar
 <img src="https://img.shields.io/badge/discord-violet?style=for-the-badge&logo=discord&logoColor=white">
 <a href="https://chess-2d.vercel.app/"><img src="https://img.shields.io/badge/portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=white"></a>
 <a href="mailto:artemis37hacker1@gmail.com"><img src="https://img.shields.io/badge/email-orange?style=for-the-badge&logo=email&logoColor=white"></a>
+<a href="cyberrangerartemis6x.blogspot.com"><img src="https://img.shields.io/badge/website-red?style=for-the-badge&logo=website&logoColor=blue"></a>
 
 ## Contact
 Feel free to reach out via  [email](artemis37hacker1@gmail.com) or connect with me on [Your Social Media].
