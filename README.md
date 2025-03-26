@@ -3,7 +3,7 @@
 **Security Researcher | Pentester | CTF Player**  
 [![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1934526)](https://tryhackme.com/p/Artemis37)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-User-green?style=flat&logo=hackthebox)](https://www.hackthebox.com/)
-[![Certifications](https://img.shields.io/badge/Certifications-eJPT%20|%20PNPT%20|%20OSCP-informational)]()
+
 
 ## 🛠️ Technical Arsenal
 
@@ -19,9 +19,6 @@
 ![Ghidra](https://img.shields.io/badge/Ghidra-007AA3?style=flat)
 ![Radare2](https://img.shields.io/badge/Radare2-2496ED?style=flat)
 
-**Cloud Security**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 
 ### 💻 Development Skills
 **Languages**  
