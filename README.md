@@ -2,7 +2,7 @@
 
 **Security Researcher | Pentester | CTF Player**  
 [![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1934526)](https://tryhackme.com/p/Artemis37)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-User-green?style=flat&logo=hackthebox)](https://www.hackthebox.com/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-User-green?style=flat&logo=hackthebox)](https://app.hackthebox.com/profile/1442922)
 
 
 ## 🛠️ Technical Arsenal
