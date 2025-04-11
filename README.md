@@ -61,5 +61,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jacob-tapsoba-4550882a1/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Artemis37)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger)](http://cyberrangerartemis6x.blogspot.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:artemis37hacker1@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord)](https://discordapp.com/users/YOURID)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:jpbc86v36@mozmail.com)
+[![Cyberfolio](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord)](https://magical-blancmange-d1372c.netlify.app/)
