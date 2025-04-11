@@ -8,7 +8,7 @@
 ## 🛠️ Technical Arsenal
 
 ### 🔐 Security Specialization
-<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=dark&hide_border=true" alt="GitHub Stats">
+<img align="left" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Artemisxxx37&theme=dark&hide_border=true" alt="GitHub Stats">
 
 **Penetration Testing**  
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite)
@@ -51,8 +51,8 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Artemisxxx37&show_icons=true&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Artemisxxx37&layout=compact&theme=radical)
 
 </div>
 
